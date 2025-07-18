@@ -26,11 +26,7 @@ Next.js • API Integrations • UI/UX Improvements
 
 ---
 
-## 📊 GitHub Stats
 
-![Yalçın Yağız Korkmaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**yalcinyagizkorkmaz**&show_icons=true&theme=github_dark)
-
----
 
 ## ⚡ Goals  
 My goal is to build seamless and scalable web applications by bridging the gap between frontend and backend.  
