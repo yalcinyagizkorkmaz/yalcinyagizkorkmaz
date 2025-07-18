@@ -28,7 +28,7 @@ Next.js • API Integrations • UI/UX Improvements
 
 ## 📊 GitHub Stats
 
-![Yalçın Yağız Korkmaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**your-username**&show_icons=true&theme=github_dark)
+![Yalçın Yağız Korkmaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**yalcinyagizkorkmaz**&show_icons=true&theme=github_dark)
 
 ---
 
