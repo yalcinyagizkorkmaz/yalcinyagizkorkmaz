@@ -2,7 +2,7 @@
 
 🚀 Software Developer | Full Stack Enthusiast  
 🎯 Areas of Expertise:  
-React.js • JavaScript • CSS • HTML • Vue.js • SQL • PostgreSQL • Python • FastAPI  
+React.js • JavaScript • CSS • HTML • Vue.js • SQL • PostgreSQL • Python • FastAPI  • .NET
 
 🌱 Currently Learning:  
 Next.js • API Integrations • UI/UX Improvements  
