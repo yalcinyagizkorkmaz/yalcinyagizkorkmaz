@@ -22,8 +22,9 @@ Next.js • API Integrations • UI/UX Improvements
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)  
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=dotnet)
+
 
 
 
